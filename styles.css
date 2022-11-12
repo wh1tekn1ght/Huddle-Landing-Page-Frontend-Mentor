@@ -20,22 +20,22 @@ body {
   padding-left: 3rem;
   padding-right: 3rem;
   background: var(--Violet) url("./images/bg-mobile.svg") no-repeat;
-  background-size: contain;
+  /* background-size: cover; */
 }
 
 h1 {
-  margin-left: 0.5rem;
-  margin-right: 0.5rem;
+  width: 20ch;
+  margin: 0 auto;
   font-family: 'Poppins', sans-serif;
-  font-size: 2.1rem;
+  font-size: 2.2rem;
   font-weight: 600;
 }
 
 p {
-  margin-left: 0.6rem;
-  margin-right: 0.6rem;
-  line-height: 2.1rem;
-  font-size: 1.3rem;
+  width: 35ch;
+  margin: 2rem auto;
+  line-height: 1.5;
+  font-size: 1.4rem;
 }
 
 .grid-container {
@@ -45,13 +45,12 @@ p {
 }
 
 .logo-container {
-  padding: 2.5rem 2rem;
-  padding-left: 0;
+  padding: 2.5rem 2rem 2.5rem 0;
 }
 
 .logo-container img{
   display: inline-block;
-  width: 11rem;
+  width: 14rem;
 }
 
 .image-container {
@@ -59,13 +58,13 @@ p {
 }
 
 .image-container img {
-  width: 100%;
+  width: 96%;
   max-width: 500px;
-  height: 100%;
+  height: auto;
 }
 
 .grid-container main {
-  margin-top: 2rem;
+  margin-top: 3.5rem;
 }
 
 .image-container {
@@ -73,8 +72,9 @@ p {
 }
 
 .description {
-  max-width: 380px;
   margin: 0 auto;
+  max-width: 380px;
+  text-align: center;
 }
 
 .description button {
@@ -123,10 +123,29 @@ p {
 
   .description {
     margin: 0;
+    text-align: start;
   }
 
-  h1, p {
-    text-align: start;
+  h1 {
+    margin: 0;
+    font-size: 3rem;
+  }
+
+  p {
+    width: 50ch;
+    margin: 2rem 0;
+    font-size: 1.6rem;
+  }
+
+  .description button {
+    margin: 2rem 0;
+    font-size: 1.3rem;
+  }
+  
+  .grid-container footer {
+    justify-content: end;
+    padding-right: 3.2rem;
+    font-size: 3rem;
   }
 
 }
