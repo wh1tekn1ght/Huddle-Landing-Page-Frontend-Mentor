@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/wh1tekn1ght/Huddle-Landing-Page-Frontend-Mentor)
-- Live Site URL: [Live version](https://wh1tekn1ght.github.io/Huddle-Landing-Page-Frontend-Mentor/)
+- Solution URL: [Solution](https://github.com/nimrodcode/Huddle-Landing-Page-Frontend-Mentor)
+- Live Site URL: [Live version](https://nimrodcode.github.io/Huddle-Landing-Page-Frontend-Mentor/)
 
 ## My process
 
