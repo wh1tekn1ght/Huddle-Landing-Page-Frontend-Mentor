@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/nimrodcode/Huddle-Landing-Page-Frontend-Mentor)
-- Live Site URL: [Live version](https://nimrodcode.github.io/Huddle-Landing-Page-Frontend-Mentor/)
+- Solution URL: [Solution](https://github.com/whiteknight-dev/Huddle-Landing-Page-Frontend-Mentor)
+- Live Site URL: [Live version](https://whiteknight-dev.github.io/Huddle-Landing-Page-Frontend-Mentor/)
 
 ## My process
 
@@ -48,6 +48,6 @@ I want to keep working on these areas:
 
 ## Author
 
-- Frontend Mentor - [@fermendoza18](https://www.frontendmentor.io/profile/fermendoza18)
+- Frontend Mentor - [@whiteknight-dev](https://www.frontendmentor.io/profile/whiteknight-dev)
 
 
